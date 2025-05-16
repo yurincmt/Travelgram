@@ -1,7 +1,5 @@
 #nav-container {
-  /* border: 1px solid; */
   display: flex;
-  padding-inline: 32px;
   
   justify-content: space-between;
   align-items: center;
