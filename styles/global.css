@@ -26,3 +26,17 @@ body {
   background-color: var(--background-color);
   color: var(--text-color-secondary);
 }
+
+.nav-header-container {
+  background-color: var(--surface-color);
+}
+
+a {
+   text-decoration: none;
+   color: inherit;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: var(--brand-color);
+}
