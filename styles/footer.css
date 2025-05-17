@@ -1,0 +1,12 @@
+footer {
+  /* border: 1px solid; */
+  display: flex;
+  padding: 32px 24px;
+
+  justify-content: space-between;
+}
+
+footer ul {
+  display: flex;
+  gap: 24px;
+}
