@@ -2,6 +2,7 @@ footer {
   /* border: 1px solid; */
   display: flex;
   padding: 32px 24px;
+  font: 14px/150% var(--font-family);
 
   justify-content: space-between;
 }
